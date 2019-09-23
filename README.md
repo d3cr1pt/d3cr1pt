@@ -1,4 +1,3 @@
-# d3cr1pt.github.io
 **Perfil de Alberto Trevisan no GitHub**
 
 # Contribuições
