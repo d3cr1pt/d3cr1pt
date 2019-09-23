@@ -1,7 +1,7 @@
 # d3cr1pt.github.io
-**Perfil de Alberto Trevisan no GitHub
+**Perfil de Alberto Trevisan no GitHub**
 
--- Contribuições
+# Contribuições
 
 ## Projetos atuais
 - [ ] [RedeFP](https://d3cr1pt.github.io/redefp/)
