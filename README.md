@@ -27,6 +27,6 @@ Forked from d3cr1pt/crud-php/master/32afca8
 Forked from d3cr1pt/crud-php/master/32afca8
 ```
 - [x] [heitor-natali](https://github.com/d3cr1pt/heitor-natali.000webhostapp.com/)
-```
+``` javascript
 Forked from XuKaMa/heitor-natali.000webhostapp.com/master/d7b8dfe
 ```
