@@ -3,12 +3,13 @@
 # Contribuições
 
 ## Projetos atuais
-- [ ] [RedeFP](https://d3cr1pt.github.io/redefp/)
-- [x] [DGS](https://d3cr1pt.github.io/darkgoldenstars.000webhostapp.com/)
-- [x] [Crud-PHP](https://github.com/d3cr1pt/crud-php)
+- [ ] [VTCsys16app](http://vtcconsultoria.com.br/)
+- [ ] [AutCenter](https://github.com/d3cr1pt/startpecas)
+- [ ] [Quickmart](https://github.com/d3cr1pt/quickmart)
 
 ## Projetos Pausados
 - [ ] [Crud-CSharp](https://github.com/d3cr1pt/crud-csharp)
+- [ ] [RedeFP](https://d3cr1pt.github.io/redefp/)
 
 ## Projetos Concluidos
 - [x] [iOSforAll](https://github.com/d3cr1pt/iosforall)
@@ -16,6 +17,9 @@
 - [x] [AutoVideo](https://github.com/d3cr1pt/autovideo)
 - [x] [Serralheria Mancini](https://github.com/d3cr1pt/serralheria-mancini)
 - [x] [ProjCarros](https://github.com/d3cr1pt/projcarros)
+- [x] [DGS](https://d3cr1pt.github.io/darkgoldenstars.000webhostapp.com/)
+- [x] [Crud-PHP](https://github.com/d3cr1pt/crud-php)
+- [x] [GrupoQualiport](https://github.com/d3cr1pt/grupoqualiport.com.br/)
 
 ## Collabs
 
