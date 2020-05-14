@@ -3,7 +3,6 @@
 # Contribuições
 
 ## Projetos atuais
-- [ ] [VTCsys16app](http://vtcconsultoria.com.br/)
 - [ ] [AutCenter](https://github.com/d3cr1pt/startpecas)
 - [ ] [Quickmart](https://github.com/d3cr1pt/quickmart)
 
@@ -19,7 +18,6 @@
 - [x] [ProjCarros](https://github.com/d3cr1pt/projcarros)
 - [x] [DGS](https://d3cr1pt.github.io/darkgoldenstars.000webhostapp.com/)
 - [x] [Crud-PHP](https://github.com/d3cr1pt/crud-php)
-- [x] [GrupoQualiport](https://github.com/d3cr1pt/grupoqualiport.com.br/)
 
 ## Collabs
 
@@ -39,3 +37,11 @@ Forked from XuKaMa/heitor-natali.000webhostapp.com/master/d7b8dfe
 ```
 Branch master
 ```
+- [x] [pizzahut](https://www.pizzahut.com.br/)
+```
+Branch dev while working on Dek@Consult 
+```
+
+## Clientes
+- [x] [VTCsys16app](http://vtcconsultoria.com.br/sis/16)
+- [x] [GrupoQualiport](https://www.grupoqualiport.com.br/)
