@@ -5,6 +5,14 @@
 ## Projetos atuais
 - [ ] [AutCenter](https://github.com/d3cr1pt/startpecas)
 - [ ] [Quickmart](https://github.com/d3cr1pt/quickmart)
+- [ ] LumiData
+- [ ] Globus
+- [ ] [CRM-Qualiport](https://www.grupoqualiport.com.br/)
+
+## Clientes
+- [x] [VTCsys16app](http://vtcconsultoria.com.br/sis/16)
+- [x] [GrupoQualiport](https://www.grupoqualiport.com.br/)
+- [x] [InterFI Gestão](https://35.232.204.41)
 
 ## Projetos Pausados
 - [ ] [Crud-CSharp](https://github.com/d3cr1pt/crud-csharp)
@@ -41,7 +49,7 @@ Branch master
 ```
 Branch dev while working on Dek@Consult 
 ```
-
-## Clientes
-- [x] [VTCsys16app](http://vtcconsultoria.com.br/sis/16)
-- [x] [GrupoQualiport](https://www.grupoqualiport.com.br/)
+- [x] [hospitalcarclub](https://www.hospitalcarclub.com.br/)
+```
+Branch dev while working on Dek@Consult
+```
