@@ -12,7 +12,7 @@
 - [x] [VTCsys16app](http://vtcconsultoria.com.br/sis/16)
 - [x] [GrupoQualiport](https://www.grupoqualiport.com.br/)
 - [x] [InterFI Gestão](https://35.232.204.41)
-- [x] [LumiData](https://api.albertotrevisan.com.br/lumidata/)
+- [x] [LumiData](http://api.albertotrevisan.com.br/lumidata/)
 
 ## Projetos Pausados
 - [ ] [Crud-CSharp](https://github.com/d3cr1pt/crud-csharp)
