@@ -5,14 +5,17 @@
 ## Projetos atuais
 - [ ] [AutCenter](https://github.com/d3cr1pt/startpecas)
 - [ ] [Quickmart](https://github.com/d3cr1pt/quickmart)
-- [ ] Globus
-- [ ] [CRM-Qualiport](https://www.grupoqualiport.com.br/)
+- [ ] GladiOS (projeto open-source) 
+- [x] [Escaler](https://escaler.com.br)
 
 ## Clientes
 - [x] [VTCsys16app](http://vtcconsultoria.com.br/sis/16)
-- [x] [GrupoQualiport](https://www.grupoqualiport.com.br/)
-- [x] [InterFI Gestão](https://35.232.204.41)
-- [x] [LumiData](https://api.albertotrevisan.com.br/lumidata/)
+- [x] [Grupo Qualiport](https://www.grupoqualiport.com.br/)
+- [x] [InterFI Gestão](https://interfi.net)
+- [x] [InterFi - CRM](https://admin.interfi.net/crm)
+- [x] [InterFi - Sistemas](https://admin.interfi.net/acesso)
+- [x] [Grupo Qualiport CRM](https://www.grupoqualiport.com.br/)
+- [x] LumiData
 
 ## Projetos Pausados
 - [ ] [Crud-CSharp](https://github.com/d3cr1pt/crud-csharp)
