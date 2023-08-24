@@ -1,9 +1,17 @@
 **Perfil de Alberto Trevisan no GitHub**
 
 # Contribuições
+[![d3cr1pt's GitHub stats](https://github-readme-stats-ietj.vercel.app/api?username=d3cr1pt)](https://github.com/d3cr1pt)
+
+## Experiência
+- [Dek@Consult](https://dekaconsult.com.br/)
+- [Loide Imoveis](https://loideimoveis.com.br)
+- [InterFi Sistemas](https://www.interfi.net/)
+- [Abrão Reze](https://www.abraoreze.com.br/)
+- [AT Informática](https://albertotrevisan.com.br)
 
 ## Projetos atuais
-- [ ] [AutCenter](https://github.com/d3cr1pt/startpecas)
+- [x] [AutoCenter](https://github.com/d3cr1pt/admin.aceleramotocenter.com.br)
 - [ ] [Quickmart](https://github.com/d3cr1pt/quickmart)
 - [ ] GladiOS (projeto open-source) 
 - [x] [Escaler](https://escaler.com.br)
@@ -16,6 +24,13 @@
 - [x] [InterFi - Sistemas](https://admin.interfi.net/acesso)
 - [x] [Grupo Qualiport CRM](https://www.grupoqualiport.com.br/)
 - [x] LumiData
+- [x] [AutoCenter](https://aceleramotocenter.com.br/admin)
+- [x] [Grupo São João](https://gruposaojoao.com.br)
+- [x] [Acelera Moto Center](https://aceleramotocenter.com.br/admin)
+- [x] [Acelera Auto Center](https://vps35619.publiccloud.com.br/autocenter)
+- [x] [Reusee](https://sistema.reuzee.com.br)
+- [x] [Restore](https://restore.reuzee.com.br)
+- [x] [Education1](https://education1.com.br)
 
 ## Projetos Pausados
 - [ ] [Crud-CSharp](https://github.com/d3cr1pt/crud-csharp)
@@ -48,7 +63,7 @@ Forked from XuKaMa/heitor-natali.000webhostapp.com/master/d7b8dfe
 ```
 Branch master
 ```
-- [x] [pizzahut](https://www.pizzahut.com.br/)
+- [x] [pizzahut](https://www.pizzahut.com.br/) 
 ```
 Branch dev while working on Dek@Consult 
 ```
