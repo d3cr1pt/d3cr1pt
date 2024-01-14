@@ -9,6 +9,7 @@
 - [InterFi Sistemas](https://www.interfi.net/)
 - [Abrão Reze](https://www.abraoreze.com.br/)
 - [AT Informática](https://albertotrevisan.com.br)
+- [Reuzee Gestão](https://reuzee.com.br)
 
 ## Projetos atuais
 - [x] [AutoCenter](https://github.com/d3cr1pt/admin.aceleramotocenter.com.br)
@@ -28,9 +29,12 @@
 - [x] [Grupo São João](https://gruposaojoao.com.br)
 - [x] [Acelera Moto Center](https://aceleramotocenter.com.br/admin)
 - [x] [Acelera Auto Center](https://vps35619.publiccloud.com.br/autocenter)
-- [x] [Reusee](https://sistema.reuzee.com.br)
-- [x] [Restore](https://restore.reuzee.com.br)
+- [x] [Reuzee](https://reuzee.com.br)
+- [x] [Restore](https://restore.com.br)
 - [x] [Education1](https://education1.com.br)
+- [x] [MudBrechó](https://mudbrecho.com.br)
+- [x] [UGC Connection](https://ugcjob.com.br)
+- [ ] [Com Fome](https://comfome.reuzee.com.br)
 
 ## Projetos Pausados
 - [ ] [Crud-CSharp](https://github.com/d3cr1pt/crud-csharp)
