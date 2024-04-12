@@ -35,6 +35,7 @@
 - [x] [MudBrechó](https://mudbrecho.com.br)
 - [x] [UGC Connection](https://ugcjob.com.br)
 - [ ] [Com Fome](https://comfome.reuzee.com.br)
+- [ ] [Breshop](https://shop.reuzee.com.br)
 
 ## Projetos Pausados
 - [ ] [Crud-CSharp](https://github.com/d3cr1pt/crud-csharp)
