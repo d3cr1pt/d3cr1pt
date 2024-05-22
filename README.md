@@ -1,7 +1,7 @@
 **Perfil de Alberto Trevisan no GitHub**
 
 # Contribuições
-[![d3cr1pt's GitHub stats](https://github-readme-stats-ietj-0odb-2fo2gbzbn-d3cr1pts-projects.vercel.app/api?username=d3cr1pt&theme=darcula&show_icons=true]](https://github.com/d3cr1pt)
+[![d3cr1pt's GitHub stats](https://github-readme-stats-ietj.vercel.app/api?username=d3cr1pt&theme=dracula)](https://github.com/d3cr1pt)
 
 ## Experiência
 - [Dek@Consult](https://dekaconsult.com.br/)
