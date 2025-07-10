@@ -12,10 +12,9 @@
 - [Reuzee Gestão](https://reuzee.com.br)
 
 ## Projetos atuais
-- [x] [AutoCenter](https://github.com/d3cr1pt/admin.aceleramotocenter.com.br)
-- [ ] [Quickmart](https://github.com/d3cr1pt/quickmart)
-- [ ] GladiOS (projeto open-source) 
-- [x] [Escaler](https://escaler.com.br)
+- [ ] AntOS (projeto open-source)
+- [ ] [Reuzee](httos://reuzee.com.br)
+- [ ] [Publee](https://mandapublee.com.br)
 
 ## Clientes
 - [x] [VTCsys16app](http://vtcconsultoria.com.br/sis/16)
@@ -35,11 +34,13 @@
 - [x] [MudBrechó](https://mudbrecho.com.br)
 - [x] [UGC Connection](https://ugcjob.com.br)
 - [ ] [Com Fome](https://comfome.reuzee.com.br)
-- [ ] [Breshop](https://shop.reuzee.com.br)
+- [x] [Breshop](https://shop.reuzee.com.br)
+- [x] [Escaler](https://escaler.com.br)
 
 ## Projetos Pausados
 - [ ] [Crud-CSharp](https://github.com/d3cr1pt/crud-csharp)
 - [ ] [RedeFP](https://d3cr1pt.github.io/redefp/)
+- [ ] [Quickmart](https://github.com/d3cr1pt/quickmart)
 
 ## Projetos Concluidos
 - [x] [iOSforAll](https://github.com/d3cr1pt/iosforall)
@@ -49,6 +50,7 @@
 - [x] [ProjCarros](https://github.com/d3cr1pt/projcarros)
 - [x] [DGS](https://d3cr1pt.github.io/darkgoldenstars.000webhostapp.com/)
 - [x] [Crud-PHP](https://github.com/d3cr1pt/crud-php)
+- [x] [AutoCenter](https://github.com/d3cr1pt/admin.aceleramotocenter.com.br)
 
 ## Collabs
 
